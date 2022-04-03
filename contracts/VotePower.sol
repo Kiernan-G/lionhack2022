@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.7;
 
-import "./ThingToGetTimesAndBalancesV1.sol";
+import "./GetTimesAndBalancesV1.sol";
 
 contract VotePower {
     
